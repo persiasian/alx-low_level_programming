@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	puts("Programming is like bulding a multiligual puzzle")
+	puts("Programming is like bulding a multiligual puzzle");
 	
-	return(0)
+	return(0);
 
 }
 
