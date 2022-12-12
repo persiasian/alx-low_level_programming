@@ -4,8 +4,7 @@
 
 int main(void)
 {
-	puts( "Programming is like bulding a multiligual puzzle" );
-	
-	return(0);
+	/** prints text */
+	puts("Programming is like building a multilnigual puzzle");
+	return (0);
 }
-
